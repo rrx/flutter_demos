@@ -1,0 +1,20 @@
+# This is a generated file; do not edit or check into version control.
+android_content_provider=/home/rrx/.pub-cache/hosted/pub.dev/android_content_provider-0.2.2/
+audio_service=/home/rrx/.pub-cache/hosted/pub.dev/audio_service-0.18.11/
+audio_service_web=/home/rrx/.pub-cache/hosted/pub.dev/audio_service_web-0.1.1/
+audio_session=/home/rrx/.pub-cache/hosted/pub.dev/audio_session-0.1.16/
+device_info_plus=/home/rrx/.pub-cache/hosted/pub.dev/device_info_plus-3.2.4/
+device_info_plus_linux=/home/rrx/.pub-cache/hosted/pub.dev/device_info_plus_linux-2.1.1/
+device_info_plus_macos=/home/rrx/.pub-cache/hosted/pub.dev/device_info_plus_macos-2.2.3/
+device_info_plus_web=/home/rrx/.pub-cache/hosted/pub.dev/device_info_plus_web-2.1.0/
+device_info_plus_windows=/home/rrx/.pub-cache/hosted/pub.dev/device_info_plus_windows-2.1.1/
+flutter_tts=/home/rrx/.pub-cache/hosted/pub.dev/flutter_tts-3.8.2/
+just_audio=/home/rrx/.pub-cache/hosted/pub.dev/just_audio-0.9.34/
+just_audio_web=/home/rrx/.pub-cache/hosted/pub.dev/just_audio_web-0.4.8/
+path_provider=/home/rrx/.pub-cache/hosted/pub.dev/path_provider-2.0.15/
+path_provider_android=/home/rrx/.pub-cache/hosted/pub.dev/path_provider_android-2.2.0/
+path_provider_foundation=/home/rrx/.pub-cache/hosted/pub.dev/path_provider_foundation-2.3.1/
+path_provider_linux=/home/rrx/.pub-cache/hosted/pub.dev/path_provider_linux-2.2.1/
+path_provider_windows=/home/rrx/.pub-cache/hosted/pub.dev/path_provider_windows-2.0.7/
+permission_handler=/home/rrx/.pub-cache/hosted/pub.dev/permission_handler-8.3.0/
+sqflite=/home/rrx/.pub-cache/hosted/pub.dev/sqflite-2.3.0/
